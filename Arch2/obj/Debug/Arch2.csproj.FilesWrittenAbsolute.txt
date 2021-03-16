@@ -1,0 +1,5 @@
+/home/makar/RiderProjects/Arch2/Arch2/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/makar/RiderProjects/Arch2/Arch2/bin/Debug/Arch2.exe.mdb
+/home/makar/RiderProjects/Arch2/Arch2/bin/Debug/Arch2.exe
+/home/makar/RiderProjects/Arch2/Arch2/obj/Debug/Arch2.exe
+/home/makar/RiderProjects/Arch2/Arch2/obj/Debug/Arch2.exe.mdb
